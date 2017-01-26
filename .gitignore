@@ -1,0 +1,8 @@
+# Scala specific
+project/*
+!project/*.sbt
+target
+
+# project specific
+bot.token
+plantuml.jar
